@@ -1,0 +1,34 @@
+﻿Der Buildvorgang wurde am 01.07.2022 16:57:05 gestartet.
+     1>Projekt "C:\Eigene Dateien\learning\test\code\Calculator\Calculator\Calculator.vcxproj" auf Knoten "2", Rebuild Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt BinaryCommand.cpp Command.cpp CommandManager.cpp CommandRepo.cpp Concrete.cpp CoreCommand.cpp Main.cpp Observer.cpp Publisher.cpp Stack.cpp UnaryCommand.cpp
+         UnaryCommand.cpp
+         Stack.cpp
+         Publisher.cpp
+         Observer.cpp
+         Main.cpp
+         CoreCommand.cpp
+         Concrete.cpp
+         CommandRepo.cpp
+         CommandManager.cpp
+         Command.cpp
+         BinaryCommand.cpp
+         Code wird generiert...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Eigene Dateien\learning\test\code\Calculator\Debug\Calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Eigene Dateien\learning\test\code\Calculator\Debug\Calculator.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Eigene Dateien\learning\test\code\Calculator\Debug\Calculator.lib" /MACHINE:X86 Debug\BinaryCommand.obj
+         Debug\Command.obj
+         Debug\CommandManager.obj
+         Debug\CommandRepo.obj
+         Debug\Concrete.obj
+         Debug\CoreCommand.obj
+         Debug\Main.obj
+         Debug\Observer.obj
+         Debug\Publisher.obj
+         Debug\Stack.obj
+         Debug\UnaryCommand.obj
+         Calculator.vcxproj -> C:\Eigene Dateien\learning\test\code\Calculator\Debug\Calculator.exe
+     1>Die Erstellung von Projekt "C:\Eigene Dateien\learning\test\code\Calculator\Calculator\Calculator.vcxproj" ist abgeschlossen (Rebuild Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:07.63
